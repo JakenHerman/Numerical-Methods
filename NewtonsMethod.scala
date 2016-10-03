@@ -22,6 +22,7 @@ object NewtonsMethod {
                                  - 26264 * x
                                  + 13068)
 
+    //tolerance to x_{i}e-7
     val tolerance = 0.0000001
 
     for(i <- 0 to 7){
